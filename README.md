@@ -7,7 +7,7 @@ This piece of code is for one of the freedom projects for my Codecademy Course, 
 ## Brief description of the code. 
 There are three datasets and all of them were about roller costers in different amusement parks. My job was to inspect the dataset and answering questions asked by the project. Also to visualize the dataset in different types of charts like in Pie chart, Histogram, and Bar charts with clear labels. 
 
-There are files with code. The first file includes anwers to the "offical questions" asked by project and the second file inclues answers to the additional/optional questions that were asked. 
+There are 2 files with code. The first file, *"Roller_Coaster_Codeca1"* includes anwers to the "offical questions" asked by project and the second file, *"Roller_Coaster_Codeca2"* inclues answers to the additional/optional questions that were asked. 
 
 ## Demonstrated Skills
 - Writing clean and understable **python** codes. Documenting them well with the use of comments. 
